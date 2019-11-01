@@ -18,11 +18,10 @@ int main(void) //int用于声明,定义变量"void" 注意,*.c除了特殊情况外第一个运行的函
 由此,我们可以总结出一个简单的C程序的基本框架为:
 //函数头部分
 #include <stdio.h>
-
 //函数体部分
 int main(void)
 {
-    语句;
+	语句;
 	return 0;
 }
 */
