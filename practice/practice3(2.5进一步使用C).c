@@ -13,7 +13,7 @@ int main(void)
 	feet = 6 * fathoms; //2.5.3 此处程序进行了乘法计算,C中使用"*"表示乘法,此处的意思为"查找变量fatoms的值,用6乘以该值后将计算结果赋值给feet"
 
 	printf("The are %d feet in %d fathoms!\n", feet, fathoms); //2.5.4 此处进行了两次替换,其中"feet"替换了第一个%d,"fathoms"替换了第二个%d
-	printf("Yes,I said %d feet!\n", 6 * fathoms);
+	printf("Yes,I said %d feet!\n", 6 * fathoms); //2.5.4 此处说明待打印的值不一定是变量
 
 	return 0;
 }
