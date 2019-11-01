@@ -1,28 +1,28 @@
 #include <stdio.h>
 
-/*ä»¥ä¸‹ä¸ºå‡½æ•°å¤´éƒ¨åˆ†*/
-int main(void) //intç”¨äºŽå£°æ˜Ž,å®šä¹‰å˜é‡"void" æ³¨æ„,*.cé™¤äº†ç‰¹æ®Šæƒ…å†µå¤–ç¬¬ä¸€ä¸ªå‡½æ•°å¿…é¡»ä¸ºmain()
-/*ä»¥ä¸Šä¸ºå‡½æ•°å¤´éƒ¨åˆ†*/
+/*ÒÔÏÂÎªº¯ÊýÍ·²¿·Ö*/
+int main(void) //intÓÃÓÚÉùÃ÷,¶¨Òå±äÁ¿"void" ×¢Òâ,*.c³ýÁËÌØÊâÇé¿öÍâµÚÒ»¸öÔËÐÐµÄº¯ÊýÒ»¶¨ÊÇmain()
+/*ÒÔÉÏÎªº¯ÊýÍ·²¿·Ö*/
 
-/*ä»¥ä¸‹ä¸ºå‡½æ•°ä½“éƒ¨åˆ†*/
-{ //å‡½æ•°ä½“å¼€å§‹
-	int q; //å£°æ˜Ž"q"
-	q = 1; //å¯¹qè¿›è¡Œèµ‹å€¼
-	printf("%d is neat. \n", q); //å®šä¹‰"%d"è°ƒç”¨"q"çš„å€¼
+/*ÒÔÏÂÎªº¯ÊýÌå²¿·Ö*/
+{ //º¯ÊýÌå¿ªÊ¼
+	int q; //ÉùÃ÷"q"
+	q = 1; //¶Ôq½øÐÐ¸³Öµ
+	printf("%d is neat. \n", q); //"\n"ÊÇ»»ÐÐ·û,´Ë´¦"q"ÓÃÓÚ¶¨Òå"%d"Ê¹ÓÃ"q"µÄÖµ
 
-	return 0; //ç»“æŸç¨‹åº
-} //å‡½æ•°ä½“ç»“æŸ
-/*ä»¥ä¸Šä¸ºå‡½æ•°ä½“éƒ¨åˆ†*/
+	return 0; //½áÊø³ÌÐò
+} //º¯ÊýÌå½áÊø
+/*ÒÔÉÏÎªº¯ÊýÌå²¿·Ö*/
 
 /*
-ç”±æ­¤,æˆ‘ä»¬å¯ä»¥æ€»ç»“å‡ºä¸€ä¸ªç®€å•çš„Cç¨‹åºçš„åŸºæœ¬æ¡†æž¶ä¸º:
-//å‡½æ•°å¤´éƒ¨åˆ†
+ÓÉ´Ë,ÎÒÃÇ¿ÉÒÔ×Ü½á³öÒ»¸ö¼òµ¥µÄC³ÌÐòµÄ»ù±¾¿ò¼ÜÎª:
+//º¯ÊýÍ·²¿·Ö
 #include <stdio.h>
 
-//å‡½æ•°ä½“éƒ¨åˆ†
+//º¯ÊýÌå²¿·Ö
 int main(void)
 {
-    è¯­å¥;
-    return 0;
+    Óï¾ä;
+	return 0;
 }
 */
