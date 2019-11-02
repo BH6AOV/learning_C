@@ -1,4 +1,4 @@
-/* two_func.c -- a program using two functions in one file */
+/* two_func.c -- a program using two functions in one file */ //two_func.c -- 一个文件中包含两个函数
 #include <stdio.h>
 void butler(void);      /* ANSI/ISO C function prototyping */ //此处的"butler()"是ANSI/ISO C函数原型,用于告知编译器需要在程序中使用该函数
 int main(void)
