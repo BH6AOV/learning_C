@@ -1,4 +1,4 @@
-//* two_func.c -- a program using two functions in one file */
+/* two_func.c -- a program using two functions in one file */
 #include <stdio.h>
 void butler(void);      /* ANSI/ISO C function prototyping */
 int main(void)
