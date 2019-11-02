@@ -15,4 +15,4 @@ void butler(void)       /* start of function definition */ //´Ë´¦µÄ"butler()"ÊÇº
 	printf("You rang, sir?\n");
 }
 
-//ÌØ±ðÌáÐÑ:º¯ÊýÔ­ÐÍÏµC90ÐÂÔö±ê×¼,¾ÉÊ½±àÒëÆ÷¿ÉÄÜÎÞ·¨Ê¶±ð,ºóÃæ»áÌáµ½ÈôÊ¹ÓÃ¾ÉÊ½±àÒëÆ÷ÐèÒªÈçºÎ²Ù×÷
+//ÌØ±ðÌáÐÑ:º¯ÊýÔ­ÐÍÏµC90ÐÂÔö±ê×¼,¾ÉÊ½±àÒëÆ÷¿ÉÄÜÎÞ·¨Ê¶±ð,ºóÃæ»áÌáµ½ÈôÊ¹ÓÃ¾ÉÊ½±àÒëÆ÷ÐèÒªÈçºÎ²Ù×÷ 
