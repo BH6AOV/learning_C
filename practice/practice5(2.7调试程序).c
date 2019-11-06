@@ -11,7 +11,7 @@ int main(void)
 	n = 5;
 	n2 = n * n;
 	n3 = n * n2; //此处计算式错误,改为"n3 = n * n2;"
-	printf("n = %d, n squared = %d, n cubed = %d\n", n, n2, n3)
+	printf("n = %d, n squared = %d, n cubed = %d\n", n, n2, n3);
 
 	return 0;
 } //此处原使用"(",应改为"{"
