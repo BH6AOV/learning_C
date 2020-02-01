@@ -22,6 +22,7 @@ int main(void) //int用于声明,此处用于声明"main"没有参数 注意,*.c除了特殊情况外第
 int main(void)
 {
 	语句;
+
 	return 0;
 }
 */
